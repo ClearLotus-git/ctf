@@ -17,8 +17,8 @@ For this room I started with an nmap scan on the attack machine.
 nmap -sC -sV {Machine-IP}
 ```
 I can see there is an ssh & HTTP port open. We will use both of these ports for this room.
-I then opened my browser and searched the ip address in the browser. 
+I then opened my browser and searched the ip address.
 
 
 
-Scrolling to the bottom shows a weird combination of username and password.
+
