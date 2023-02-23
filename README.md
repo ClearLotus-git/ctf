@@ -28,7 +28,7 @@ I again looked at the source aand looked above the previous "surprise"
 
 ![image](https://user-images.githubusercontent.com/71709864/220814080-0b063f36-5633-4bc3-9bdf-a2ab4db83550.png)
 
-I aassumed this could be username and password so I attemptted to ssh into the machine.
+I assumed this could be username and password so I attemptted to ssh into the machine.
 ```
 ssh username@{Machine-IP}
 ```
