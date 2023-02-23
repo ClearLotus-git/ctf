@@ -89,7 +89,7 @@ cat Could_this_be_what_Im_looking_for?.cplusplus
 I used this to login to the ash user. I then ran a command to check the permissions of the ash user
 
 ```
-sudo -la'
+sudo -lah
 ```
 It shows that ash has permission to open the last file 
 ```
